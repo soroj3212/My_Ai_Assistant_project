@@ -1,0 +1,8 @@
+jupyter
+speech-recognition
+pyttsx3
+requests
+wikipedia
+pywhatkit
+scikit-learn
+pythone-dotenv
