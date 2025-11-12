@@ -1,0 +1,42 @@
+command,intent
+hello,greeting
+hi,greeting
+hey,greeting
+how are you,greeting
+good morning,greeting
+what's up,greeting
+what's the time,get_time
+tell me the time,get_time
+current time,get_time
+time please,get_time
+what's the weather,get_weather
+how is the weather,get_weather
+temperature,get_weather
+weather report,get_weather
+open youtube,open_youtube
+go to youtube,open_youtube
+launch youtube,open_youtube
+open a website,open_website
+launch website,open_website
+open google,open_website
+search wikipedia,search_wikipedia
+who is,search_wikipedia
+what is,search_wikipedia
+tell me about,search_wikipedia
+play a song,play_song
+play music,play_song
+i want to listen to a song,play_song
+put on some music,play_song
+remember this,remember_note
+make a note,remember_note
+add a note,remember_note
+remember,remember_note
+show my notes,show_notes
+what did I tell you to remember,show_notes
+show all notes,show_notes
+my notes,show_notes
+goodbye,exit
+exit,exit
+stop,exit
+see you later,exit
+quit,exit
